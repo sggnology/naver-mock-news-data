@@ -1,9 +1,9 @@
 # naver-mock-news-data
-> Flutter code in songdo 2022 활동을 위한 테스트 데이터
-- 테스트를 위한 mock 데이터 구성
+Flutter code in songdo 2022 활동을 위한 테스트 데이터입니다.   
+naver 검색 api 를 사용하여 데이터를 추출하였습니다.   
 
 # Mock Data Explanation
-- 네이버 api 를 통해 `손흥민`에 대한 데이터를 추출
+- 검색어 `손흥민`에 대한 데이터를 추출
 - 총 가짓수는 15개
 
 # 사용방법
