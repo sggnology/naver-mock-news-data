@@ -1,4 +1,5 @@
 # naver-mock-news-data
+> Flutter code in songdo 2022 활동을 위한 테스트 데이터
 - 테스트를 위한 mock 데이터 구성
 
 # Mock Data Explanation
