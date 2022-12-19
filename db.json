@@ -1,15 +1,14 @@
 {
-  "lastBuildDate": "Mon, 19 Dec 2022 17:51:55 +0900",
-  "total": 516122,
-  "start": 1,
-  "display": 16,
-  "items": [
-    {
-      "title": "title1",
-      "originallink": "http://starin.edaily.co.kr/news/newspath.asp?newsid=01518646632560160",
-      "link": "https://n.news.naver.com/mnews/article/018/0005390006?sid=104",
-      "description": "description1",
-      "pubDate": "Mon, 19 Dec 2022 17:45:00 +0900"
-    }
-  ]
-} 
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
